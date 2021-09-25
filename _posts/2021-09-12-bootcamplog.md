@@ -1,11 +1,11 @@
 ---
 title: "BootCamp Log: Archive of TIL "
 header:
-  image: /assets/images/unsplash-image-6.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # image: /assets/images/unsplash-image-6.jpg
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Develop
-  - Uncategorized
+  - TIL
 tags:
   - edge case
   - featured image
