@@ -8,9 +8,8 @@ categories:
   - TIL
 tags:
   - edge case
-  - featured image
-  - image
   - layout
+  - coding
 ---
 * * *
 
