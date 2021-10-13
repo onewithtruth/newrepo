@@ -13,7 +13,7 @@ This blog is built as an archive by using the Jekyll theme, minimal-mistakes, fo
 - Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), [utterances](https://utteranc.es/), and [giscus](https://giscus.app/)).
 - [Google Analytics](https://www.google.com/analytics/) support.
 
-## Skins (color variations)
+## Skins
 
 This theme comes in nine different skins (in addition to the default one).
 
@@ -29,7 +29,7 @@ This theme comes in nine different skins (in addition to the default one).
 | --- | --- | --- |
 | [![aqua skin](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive-large.png) | [![neon skin](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive-large.png) | [![plum skin](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive-large.png) |
 
-## Demo pages
+## Sample pages
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
