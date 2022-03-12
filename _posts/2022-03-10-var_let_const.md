@@ -1,5 +1,5 @@
 ---
-title: 'BootCamp Log: Archive of TIL '
+title: 'var, let, const'
 header:
   # image: /assets/images/unsplash-image-6.jpg
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
