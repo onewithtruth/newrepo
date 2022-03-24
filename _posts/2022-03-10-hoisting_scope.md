@@ -28,6 +28,7 @@ tags:
     -  실제 코드가 올려지는 것은 아니다.
     -  javacript parser 내부적으로 끌어올려서 처리.
     -  실제 메모리에서는 변화가 없다.
+    
 
 ## Hoisting 대상
 - `var`변수 선언과 함수선언문에서만 hoistring이 발생
