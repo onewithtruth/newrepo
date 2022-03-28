@@ -31,7 +31,18 @@ tags:
     
 
 ## Hoisting 대상
-- `var`변수 선언과 함수선언문에서만 hoistring이 발생
+- `var`변수 선언과 함수선언문에서만 hoisting이 발생
     -  var 변수/함수의 선언만 위로 끌어 올려지며, 할당은 끌어 올려지지 않는다.
-    -  let/const 변수 선언과 함수 표현식에서는 호이스팅이 발생하지 않는다.
+    -  let/const 변수 선언과 함수 표현식에서는 호이스팅이 정상적으로 발생하지 않는다. (호이스팅은 발생하지만 에러또한 발생한다.)
+    ```javascript
+    // 호이스팅이 발생해 에러를 출력하는 예시 
+    let foo = 2;
+    {
+      console.log(foo);
+      let foo = 3;
+    }
+
+    // VM15:3 Uncaught ReferenceError: Cannot access 'foo' before initialization at <anonymous>:3:15
+    ```
+    
 ---
