@@ -36,6 +36,7 @@ var funcExpression = function () {
 funcExpression(); // 'A function expression'
 ```
 
+
 ### Benefits of Function Expressions
 There are several different ways that function expressions become more useful than function declarations.
 - As closures
