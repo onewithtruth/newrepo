@@ -23,6 +23,7 @@ tags:
 function funcDeclarations() {
   return 'A function declaration';
 };
+
 funcDeclarations(); // 'A function declaration'
 ```
 
@@ -33,6 +34,7 @@ funcDeclarations(); // 'A function declaration'
 var funcExpression = function () {
   return 'A function expression';
 };
+
 funcExpression(); // 'A function expression'
 ```
 
