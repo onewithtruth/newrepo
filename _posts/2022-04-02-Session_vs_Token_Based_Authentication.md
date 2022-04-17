@@ -14,36 +14,8 @@ tags:
 
 --- 
 
-# Session Authentication
+# Session vs Token Based Authentication
 
+세션과 토큰 기반 인증은 인터넷상에서, 인증이 완료된 사용자와 서버간 의 소통을 신뢰성 있게 하는데 사용된다.
 
-## function declarations
-
-```javascript
-// example
-function funcDeclarations() {
-  return 'A function declaration';
-};
-
-funcDeclarations(); // 'A function declaration'
-```
-
-## function expressions
-
-```javascript
-// example
-var funcExpression = function () {
-  return 'A function expression';
-};
-
-funcExpression(); // 'A function expression'
-```
-
-
-### Benefits of Function Expressions
-There are several different ways that function expressions become more useful than function declarations.
-- As closures
-- As arguments to other functions (as callback function)
-- As Immediately Invoked Function Expressions (IIFE)
-
----
+세션기반 인증: 
